@@ -19,6 +19,8 @@ Future commits:
   Expanding from one Hotel to many hotels, so that a customer can choose from multiple hotels.
   Dynamically rooms get automatically available as and when gets free.
   Creating a full working website.
-  Contact Information:
+
+
+Contact Information:
     Email: harshseth75@gmail.com
     Follow me on twitter: https://twitter.com/HarshSeth15
